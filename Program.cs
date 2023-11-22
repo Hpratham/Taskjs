@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CRM1
+namespace ClothShop_Project
 {
     internal static class Program
     {
